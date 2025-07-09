@@ -103,8 +103,18 @@ With gender and time filters for deep dives.
 
 ---
 
-## 💻 How to Use
+## 📜 License
 
-1. **Clone this repo:**  
-   ```sh
-   git clone https://github.com/yourusername/banking-risk-analytics-dashboard.git
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Author
+
+Asif Khan Mohammed.
+
+linkedIN: [Link Text](https://www.linkedin.com/in/asif-khan-mohammed-aksi/).
+email: [Link Text](asif.md1805@gmail.com).
+github: [Link Text](https://github.com/asifkhan1805).
+
+---
