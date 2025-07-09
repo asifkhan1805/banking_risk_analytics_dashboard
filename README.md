@@ -1,4 +1,4 @@
-# 🏦 Banking Risk Analytics Dashboard
+# 🏦 Banking Risk Analytics EDA & Dashboard
 
 Welcome to the **Banking Risk Analytics Dashboard** project! 
 This project demonstrates how modern risk analytics and interactive business intelligence dashboards can help financial institutions minimize lending risks, make informed decisions, and visualize key banking metrics.
