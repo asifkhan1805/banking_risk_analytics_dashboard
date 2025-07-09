@@ -103,6 +103,32 @@ With gender and time filters for deep dives.
 
 ---
 
+## 📁 Directory Structure
+
+| File/Directory                        | Description                                                    |
+|---------------------------------------|----------------------------------------------------------------|
+| `README.md`                           | Project documentation and instructions (this file)             |
+|                                       |                                                                |
+| `Datasets/`                           | Contains all dataset CSV files                                 |
+| ├── `banking-clients.csv`             | Main client data                                               |
+| ├── `banking-relationships.csv`       | Relationships between clients and banks                        |
+| ├── `gender.csv`                      | Gender reference data                                          |
+| └── `investment-advisors.csv`         | Investment advisor reference data                              |
+|                                       |                                                                |
+| `Dashboard/`                          | Power BI dashboard files                                       |
+| └── `Banking_Analysis_Dashboard.pbix` | Interactive Power BI dashboard                                 |
+|                                       |                                                                |
+| `python_eda_scripts/`                 | Python notebooks for EDA and analysis                          |
+| ├── `Banking_Analysis_Part1.ipynb`    | Part 1 - EDA and initial insights                              |
+| └── `Banking_Analysis_Part2.ipynb`    | Part 2 - Further EDA and correlation analysis                  |
+|                                       |                                                                |
+| `Assets/`                             | Project visuals and supporting images                          |
+|     ├── `Data_Model.png`              | Screenshot of the Power BI data model                          |
+|     ├── `Deposit_Analysis.png`        | Deposit Analysis dashboard screenshot                          |
+|     ├── `Home.png`                    | Home dashboard screenshot                                      |
+|     ├── `Loan_Analysis.png`           | Loan Analysis dashboard screenshot                             |
+|     └── `Summary.png`                 | Summary dashboard screenshot                                   |
+
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
